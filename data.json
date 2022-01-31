@@ -1,0 +1,49 @@
+{
+    "projects": [
+        {
+            "id": 0, 
+            "project_name": "Random Quote Generator", 
+            "description": "An application that provides random quotes after clicking a button or after a certain amount of time.",
+            "technologies": "JavaScript, CSS, HTML",
+            "live_link": 
+            "github_link":"github.com/dwaggoner24/techdegree-project-4"
+            "image_urls":""
+        }, 
+        {
+            "id": 1, 
+            "project_name": "Word Guessing Game", 
+            "description": "A word guessing game that indicates how many chances user has to guess word and if the user won or needs to try again.",
+            "technologies": "JavaScript, CSS, HTML", 
+            "live_link":
+            "github_link":
+            "image_urls":
+        }, 
+        {
+            "id": 2, 
+            "project_name": "Data Pagination and Filtering with JavaScript", 
+            "description": "A site that pagnations student data in directory form"
+            "technologies":
+            "live_link":
+            "github_link":
+            "image_urls":
+        }, 
+        {
+            "id": 3, 
+            "project_name": "Interactive Registration Form", 
+            "description": "An interactive form that indicates if fields are properly filled out prior to submitting"
+            "technologies":
+            "live_link":
+            "github_link":
+            "image_urls":
+        }, 
+        {
+            "id": 4, 
+            "project_name": "Public API/Employee Directory", 
+            "description": "An employee directory create via a third-party API displaying employee information and images with overlay when employee is selected"
+            "technologies": "JavaScript, CSS, HTML"
+            "live_link":
+            "github_link":
+            "image_urls":
+        } 
+    ]
+}
