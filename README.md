@@ -1,2 +1,2 @@
-# techdegre-project-9
+# techdegree-project-9
  Node Static Site with Express
