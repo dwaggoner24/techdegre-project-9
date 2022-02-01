@@ -20,11 +20,11 @@ app.get('/about', (req, res) => {
 });
 
 app.get('/projects/:id', (req, res, next) => {
-    const id = req.params;
+    const {id} = req.params;
     const project = projects[id];
 
     if (project) {
-        res.render('project', project);
+        res.render('project', {project});
     } else {
         next();
     }

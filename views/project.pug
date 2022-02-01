@@ -11,9 +11,9 @@ block content
     .inner-wrapper.flex-row-wrap.two-col
       .project-info-box.box
 
-        h1 project.project_name
+        h1= project.project_name
 
-        p project.description
+        p= project.description
 
       .project-tech-links-box.box
         h6 Technologies
@@ -27,9 +27,9 @@ block content
     .project-img-box.box
 
       //- Replace the URLs in the src attributes below with interpolated template literals to dynamically add your project images, and add descriptions to the alt attributes
-      img.project-img(src='${project.image_urls[1]}', alt='Addtional ${project.project_name} image')
-      img.project-img(src='${project.image_urls[2]}', alt='Additional ${project.project_name} image')
-      img.project-img(src='${project.image_urls[3]}', alt='Additional ${project.project_name} image')
+      img.project-img(src=`${project.image_urls[1]}`, alt='Addtional ${project.project_name} image')
+      img.project-img(src=`${project.image_urls[2]}`, alt='Additional ${project.project_name} image')
+      img.project-img(src=`${project.image_urls[3]}`, alt='')
 
     nav.nav
       a(href='/')
