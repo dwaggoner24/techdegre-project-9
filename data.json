@@ -7,9 +7,8 @@
             "technologies": ["JavaScript", "CSS", "HTML"],
             "live_link": "https://dwaggoner24.github.io/techdegree-project-4/",
             "github_link":"https://github.com/dwaggoner24/techdegree-project-4",
-            "image_urls":["/static/images/550_randomquote.jpg",
-                          "/static/images/1200_randomquote2.jpg"
-            ]
+            "thumbnail": "/static/images/550_randomquote.jpg",
+            "image_urls":["/static/images/1200_randomquote2.jpg"]
         }, 
         {
             "id": 1, 
@@ -18,8 +17,8 @@
             "technologies": ["JavaScript", "HTML", "CSS"], 
             "live_link":"https://dwaggoner24.github.io/techdegree-project-5/",
             "github_link":"https://github.com/dwaggoner24/techdegree-project-5",
-            "image_urls":["/static/images/550_wordgame.jpg",
-                          "/static/images/1200_wordgame2.jpg", 
+            "thumbnail": "/static/images/550_wordgame.jpg",
+            "image_urls":["/static/images/1200_wordgame2.jpg", 
                           "/static/images/1200_wordgame3.jpg"
             ]
         },
@@ -30,10 +29,8 @@
             "technologies":["CSS", "HTML", "JavaScript"],
             "live_link":"https://dwaggoner24.github.io/techdegree-project-6/",
             "github_link":"https://github.com/dwaggoner24/techdegree-project-6",
-            "image_urls":["/static/images/550_directory.jpg", 
-                          "/static/images/1200_directory_2.jpg",
-                          "/static/images/1200_directory_3.jpg"
-            ]
+            "thumbnail":"/static/images/550_directory.jpg",
+            "image_urls":["/static/images/1200_directory_2.jpg"]
         },
         {
             "id": 3, 
@@ -42,8 +39,8 @@
             "technologies":["HTML", "CSS", "JavaScript"],
             "live_link":"https://dwaggoner24.github.io/techdegree-project-7/",
             "github_link":"https://github.com/dwaggoner24/techdegree-project-7",
-            "image_urls":["/static/images/550_registrationform.jpg", 
-                          "/static/images/1200_registrationform2.jpg",
+            "thumbnail":"/static/images/550_registrationform.jpg", 
+            "image_urls":["/static/images/1200_registrationform2.jpg",
                           "/static/images/1200_registrationform.jpg"
             ]
         }, 
@@ -54,9 +51,8 @@
             "technologies": ["HTML", "JavaScript", "CSS", "AJAX", "Fetch API"],
             "live_link":"https://dwaggoner24.github.io/techndegree-project-8/",
             "github_link":"https://github.com/dwaggoner24/techndegree-project-8",
-            "image_urls":["/static/images/550_employedirectory.jpg", 
-                          "/static/images/1200_employeedirectory.jpg"
-            ]
+            "thumbnail": "/static/images/550_employedirectory.jpg",
+            "image_urls": ["/static/images/1200_employeedirectory.jpg"]
         } 
     ]
 }
